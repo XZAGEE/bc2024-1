@@ -1,2 +1,2 @@
-const userName = 'Yurii MAkhniuk';
-console.log('Hello,', userName);
+const userName = 'XZAGEE';
+console.log('Hello,', XZAGEE);
