@@ -1,2 +1,2 @@
 const userName = 'XZAGEE';
-console.log('Hello,', XZAGEE);
+console.log('Hello', userName);
